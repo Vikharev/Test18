@@ -1,0 +1,5 @@
+requests
+pytest
+jsonschema
+selene==2.0.0rc9
+allure-pytest
